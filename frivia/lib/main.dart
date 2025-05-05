@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:frivia/pages/game_page.dart';
 import 'package:frivia/pages/home_page.dart';
 
 void main() {
